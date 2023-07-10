@@ -26,5 +26,5 @@
 
 <br />
 
-[telegram]: https://t.me/MarvelMathesh
-[gmail]: mailto:123v.mathesh@gmail.com
+[telegram]: https://t.me/Empty Associate
+[gmail]: mailto:kesavram1316@gmail.com
