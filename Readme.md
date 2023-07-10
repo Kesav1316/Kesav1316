@@ -26,5 +26,5 @@
 
 <br />
 
-[telegram]: https://t.me/Empty Associate
+[telegram]: https://t.me/EmptyAssociate
 [gmail]: mailto:kesavram1316@gmail.com
