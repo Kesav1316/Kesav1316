@@ -9,7 +9,7 @@
 
 ### ⚡ GitHub Stats
 
-[<img alt="Kesav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kesav1316&show_icons=true&include_all_commits=true&count_private=true&theme=jolly" />](#)
+[<img alt="Kesav's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kesav1316&show_icons=true&include_all_commits=true&count_private=true&theme=jolly" />](#)
 
 ### 🏆 Github Profile Trophy
 
@@ -17,7 +17,7 @@
 
 ### 🔥 Github Top Programming Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav1316&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kesav1316&layout=compact)
 
 ### Connect with me:
 
